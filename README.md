@@ -25,6 +25,8 @@ The goal is not to exaggerate “quantum advantage,” but to understand where q
 
 ### Variational Quantum Classifier
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjay14063/qml-research-lab/blob/main/notebooks/variational-quantum-classifier.ipynb)
+
 A complete walkthrough of building and training a simple VQC using PennyLane.
 
 Topics:
@@ -38,6 +40,8 @@ Topics:
 
 ### Quantum Kernel Feature Maps
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjay14063/qml-research-lab/blob/main/notebooks/quantum-kernel-feature-maps.ipynb)
+
 Compares quantum kernels against classical RBF kernels using visual kernel matrices and SVMs.
 
 Topics:
@@ -50,6 +54,8 @@ Topics:
 ---
 
 ### Noise-Aware Training
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjay14063/qml-research-lab/blob/main/notebooks/noise-aware-training.ipynb)
 
 Studies how depolarizing noise affects variational quantum training and prediction quality.
 
